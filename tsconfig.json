@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "target": "ES2023",
+        "lib": ["DOM", "DOM.Iterable", "ES2023"],
+        "strict": true,
+        "outFile": "output.js"
+        },
+        
+    "include": ["*.ts"]
+}
